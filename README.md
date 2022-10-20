@@ -1,5 +1,15 @@
 # CoderRoad
 
+**git上传：**
+
+```bash
+git add .
+git commit -a -m "tips"
+git push -u origin main
+```
+
+
+
 
 
 
